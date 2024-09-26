@@ -1,0 +1,21 @@
+#maze {
+    width: 400px;
+    height: 435px;
+    border: 1px solid black;
+}
+
+#maze .boundary {
+    background-color: #eeeeee;
+}
+
+#end {
+    background-color: #eeeeee;
+}
+
+#start {
+    background-color: #eeeeee;
+}
+
+#status {
+    color: red;
+}
